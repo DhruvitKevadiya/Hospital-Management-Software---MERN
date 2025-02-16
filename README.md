@@ -1,1 +1,1 @@
-# Nimaaya-react
+# Hospital Management Software
